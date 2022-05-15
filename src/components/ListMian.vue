@@ -60,6 +60,7 @@ export default {
         setTimeout(()=>{
             SetData.isloading = false
         },2000)
+        console.log('a')
     }
 
     function indexIcon(index){
